@@ -1,0 +1,40 @@
+ebook_metadata:
+  title: ༄༅༅། །ཐེག་པ་ཆེན་པོའི་བློ་སྦྱོང་གི་མན་ངག་ཟབ་དོན་ཟབ་ལམ་ཐུགས་རྗེ་ཆེན་པོ་བདེ་གཤེགས་ཀུན་འདུས་ཀྱི་སྔོན་འགྲོ་ཐུགས་སྒྲུབ་བར་ཆད་ཀུན་སེལ་གྱི་རིམ་པ་དང་པོའི་ཁྲིད་ཀྱི་ཟིན་བྲིས་བཅས།
+    །
+  authors:
+  - མཛད་པ་པོ། ཞེ་ཆེན་རྒྱལ་ཚབ་འགྱུར་མེད་པདྨ་རྣམ་རྒྱལ།
+  sku: SHE-SG-06
+  layers:
+  - book_title
+  - author
+  - chapter_title
+  - tsawa
+  - quotation
+  - sabche
+  - yigchung
+web_metadata:
+  title:
+    en: Mind Training and Preliminary Practices
+    bo: བློ་བྱོང་བདེ་ཀུན་སྔོན་འགྲོ་སོགས།༼ཆ༽
+  collection:
+    en: Shechen Gyaltsab Series–  Book 6
+    bo: ཞེ་ཆེན་རྒྱལ་ཚབ་གསུང་འབུམ།–  དེབ། ༦
+  author:
+    en: Shechen Gyaltsap Gyurme Pema Namgyal
+    bo: ཞེ་ཆེན་རྒྱལ་ཚབ་འགྱུར་མེད་པདྨ་རྣམ་རྒྱལ།
+  pusblisher:
+    en: Shechen Publications
+    bo: ཞེ་ཆེན་བསྟན་གཉིས་དར་རྒྱས་གླིང།
+  sku: SHE-SG-06
+  category:
+    en: ''
+    bo: ''
+  org:
+    bo: Timeless Treasuries
+    en: མཐའ་ཡས་དཔེ་མཛོད།
+  website: http://dharmacloud.tsadra.org
+  aquisition_data: '2019-07-18'
+  filename: SHE-SG-06.epub
+  description:
+    en: ''
+    bo: ''
